@@ -1,0 +1,28 @@
+check_head_position: true
+
+subject: MoverN
+
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 3 1
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 3 1
+     head 2 0
+   arguments:
+     - 2
+     - Este
+     
+ - initial_board: |
+     GBB/1.0
+     size 1 2
+     head 0 1
+   final_board: |
+     GBB/1.0
+     size 1 2
+     head 0 0
+   arguments:
+     - 1
+     - Sur

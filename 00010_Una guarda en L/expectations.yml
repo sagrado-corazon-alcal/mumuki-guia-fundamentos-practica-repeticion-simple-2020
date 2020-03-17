@@ -1,0 +1,17 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
+  inspection: Not:HasUsage:Poner
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
+  inspection: Not:HasUsage:PonerN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
+  inspection: HasRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
+  inspection: HasUsage:PonerAzulejo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
+  inspection: HasUsage:MoverN

@@ -1,0 +1,42 @@
+check_head_position: true
+
+subject: LineaEstePesada
+
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 5 1
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 5 1
+     cell 0 0 Azul 24 
+     cell 1 0 Azul 24 
+     cell 2 0 Azul 24
+     cell 3 0 Azul 24
+     head 0 0
+   arguments:
+     - 24
+     - Azul
+     - 4
+     
+ - initial_board: |
+     GBB/1.0
+     size 8 1
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 8 1
+     cell 0 0 Verde 6 
+     cell 1 0 Verde 6 
+     cell 2 0 Verde 6
+     cell 3 0 Verde 6
+     cell 4 0 Verde 6
+     cell 5 0 Verde 6
+     cell 6 0 Verde 6
+     head 0 0
+   arguments:
+     - 6
+     - Verde
+     - 7
+     

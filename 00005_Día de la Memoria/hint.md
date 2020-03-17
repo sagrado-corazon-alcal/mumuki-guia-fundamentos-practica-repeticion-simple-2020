@@ -1,0 +1,1 @@
+Ya que definimos `PonerN(cantidad, color)`, ahora podemos **usarlo**, ¿no?.

@@ -1,0 +1,19 @@
+---
+name: Práctica Repetición simple
+locale: es
+type: practice
+beta: false
+language: gobstones
+id_format: "%05d"
+order:
+- 3
+- 4
+- 1
+- 5
+- 6
+- 2
+- 7
+- 8
+- 9
+- 10
+private: false

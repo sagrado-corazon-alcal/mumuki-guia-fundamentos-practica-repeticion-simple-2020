@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DiaDeLaMemoria
+  inspection: HasUsage:PonerN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DiaDeLaMemoria
+  inspection: Not:HasRepeat

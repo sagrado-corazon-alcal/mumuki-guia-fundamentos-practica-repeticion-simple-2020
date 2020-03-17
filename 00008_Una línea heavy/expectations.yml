@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LineaEstePesada
+  inspection: HasArity:3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LineaEstePesada
+  inspection: HasRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LineaEstePesada
+  inspection: HasUsage:PonerN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LineaEstePesada
+  inspection: HasUsage:MoverN

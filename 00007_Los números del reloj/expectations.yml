@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarReloj
+  inspection: HasArity:1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarReloj
+  inspection: HasUsage:MoverN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarReloj
+  inspection: HasUsage:PonerN

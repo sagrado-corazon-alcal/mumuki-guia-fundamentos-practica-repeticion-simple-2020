@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaDe5
+  inspection: HasUsage:PonerN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaDe5
+  inspection: HasRepeat

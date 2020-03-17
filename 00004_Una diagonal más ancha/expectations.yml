@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: BandaDiagonal4
+  inspection: HasUsage:Diagonal4AzulVolviendo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: BandaDiagonal4
+  inspection: HasRepeat
