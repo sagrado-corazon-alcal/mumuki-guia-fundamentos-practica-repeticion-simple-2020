@@ -1,0 +1,1 @@
+Para dividir en _subtareas_ vas a tener que pensar si podés partir el problema principal de dibujar una L en problemas más chicos, y cada una de ellas será un procedimiento nuevo que deberás usar desde `GuardaEnL`. 
