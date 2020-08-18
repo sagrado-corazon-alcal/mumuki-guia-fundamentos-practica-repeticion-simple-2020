@@ -12,3 +12,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: LineaEstePesada
   inspection: HasUsage:MoverN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LineaEstePesada
+  inspection: Not:Uses:IrAlBorde

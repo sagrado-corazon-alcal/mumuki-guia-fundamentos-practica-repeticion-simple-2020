@@ -1,0 +1,8 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - LineaEstePesada Not:Uses:IrAlBorde
+  then: si bien `IrAlBorde` sirve para resolver este problema, tenés que usar el procedimiento
+    que definiste anteriormente `MoverN`
