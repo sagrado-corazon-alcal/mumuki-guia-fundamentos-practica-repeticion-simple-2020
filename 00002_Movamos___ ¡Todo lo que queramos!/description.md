@@ -1,4 +1,4 @@
-> Creá un procedimiento `MoverN(cantidad, direccion)` que haga que el cabezal se desplace la cantidad especificada de veces en la dirección indicada.
+> Definí un procedimiento `MoverN(cantidad, direccion)` que haga que el cabezal se desplace la cantidad especificada de veces en la dirección indicada.
 
 Por ejemplo, `MoverN(3, Oeste)` provocaría:
 
