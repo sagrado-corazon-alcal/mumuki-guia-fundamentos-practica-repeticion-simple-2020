@@ -1,4 +1,4 @@
-Hacer un procedimiento `GuardaEnL()`, que haga una guarda en L como muestra la figura, pero **dejando el cabezal en la posición inicial**.
+> Definí un procedimiento `GuardaEnL()` que haga una guarda en L como muestra la figura, pero **dejando el cabezal en la posición inicial**.
 
 <gs-board>
  GBB/1.0
