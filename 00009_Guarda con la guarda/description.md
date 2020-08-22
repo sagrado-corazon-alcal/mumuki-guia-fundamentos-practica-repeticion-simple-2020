@@ -1,6 +1,6 @@
 Bueno, estamos en tiempo para algún ejercicio integrador...
 
-> Hacé un procedimiento `GuardaDe5()`, que haga una "guarda" de 5 azulejos (como las que decoran las paredes). Cada **azulejo** está conformado por 1 bolita verde, 5 negras y 9 rojas.
+> Definí un procedimiento `GuardaDe5()`, que haga una "guarda" de 5 azulejos (como las que decoran las paredes). Cada **azulejo** está conformado por 1 bolita verde, 5 negras y 9 rojas.
 
 <gs-board>
   GBB/1.0
