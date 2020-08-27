@@ -1,1 +1,1 @@
-Ya que definimos `PonerN(cantidad, color)`, ahora podemos **usarlo**, ¿no?.
+Ya que definimos `PonerN(cantidad, color)`, ahora podemos **invocarlo**, ¿no?.
