@@ -5,7 +5,7 @@ A modo de ejemplo, `LineaEstePesada(3, Verde, 5)` debería dibujar una línea ve
 
 <gs-board>
   GBB/1.0
-  size 5 2
+  size 6 2
   cell 0 0 Verde 3 
   cell 1 0 Verde 3 
   cell 2 0 Verde 3
