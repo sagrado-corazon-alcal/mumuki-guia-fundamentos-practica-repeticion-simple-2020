@@ -7,7 +7,7 @@ expectations:
   binding: GuardaEnL
   inspection: Not:HasUsage:PonerN
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: GuardaEnL
+  binding: "*"
   inspection: HasRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: GuardaEnL
