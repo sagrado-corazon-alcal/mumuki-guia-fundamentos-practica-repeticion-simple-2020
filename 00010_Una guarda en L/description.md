@@ -1,4 +1,4 @@
-> Definí un procedimiento `GuardaEnL()` que haga una guarda en L como muestra la figura, pero **dejando el cabezal en la posición inicial**.
+> Definí un procedimiento `GuardaEnL()` que haga una guarda en L como muestra el tablero, pero **dejando el cabezal en la posición inicial**.
 
 <gs-board>
  GBB/1.0
@@ -11,4 +11,4 @@
     head 0 0
 </gs-board>
 
-La ventaja ahora, es que **te regalamos** el procedimiento `PonerAzulejo`. ¡Pero **ojo** que necesitás dividir en más subtareas! 
+La ventaja ahora es que **te regalamos** el procedimiento `PonerAzulejo`. ¡Pero todavía necesitás dividir en más subtareas! 
