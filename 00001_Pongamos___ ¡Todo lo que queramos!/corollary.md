@@ -1,4 +1,4 @@
-Aunque quizás no veas todavía la utilidad de este `procedure` que creamos, te contamos dos aspectos que es importante tener en cuenta al programar:
+Aunque quizás todavía no le encuentres mucha utilidad a este `procedure` que creamos, te contamos dos aspectos que es importante tener en cuenta al programar:
 
 * **reutilización de código:** como poner muchas bolitas es una tarea común, está bueno tener un procedimiento que lo resuelva: lo escribimos una vez y lo usamos para siempre;
 
