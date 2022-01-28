@@ -20,4 +20,4 @@ Ahora, tenés que hacer este dibujo:
     head 0 0
 </gs-board>
 
-> El procedimiento debe llamarse `BandaDiagonal4`. ¡Ojo! prestá atención a la **posición final** del cabezal.
+> El procedimiento debe llamarse `BandaDiagonal4`. :warning: Prestá atención a la **posición final** del cabezal.
