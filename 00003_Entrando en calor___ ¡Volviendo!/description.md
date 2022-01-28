@@ -1,4 +1,4 @@
-En la guía anterior, vimos que se podía usar `repeat` para hacer algo muchas veces. Hicimos un ejemplo que se llamaba `Diagonal4Azul`, que era más o menos así:
+En la guía anterior, aprendimos que se podía usar `repeat` para hacer algo muchas veces. Hicimos un ejemplo que se llamaba `Diagonal4Azul`, que era más o menos así:
 
 ```gobstones
 procedure Diagonal4Azul(){
