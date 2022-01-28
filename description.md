@@ -1,6 +1,6 @@
 Ahora que ya sabés cómo repetir tareas, vamos a combinar eso con procedimientos y parámetros para solucionar problemas más complejos. :smirk:
 
-Además, vamos a ir introduciendo algunos temas nuevos en el camino... ¡No te los pierdas!
+Además, vamos a ir presentando algunos temas nuevos en el camino... ¡No te los pierdas!
 
 #### Objetivos
 * Vamos a aprender qué son las **expresiones** más sencillas (¿sabías que `Azul` es una expresión?)
