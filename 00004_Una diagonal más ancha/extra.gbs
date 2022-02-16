@@ -1,15 +1,29 @@
 procedure Diagonal4AzulVolviendo(){
-  Diagonal4AzulAvanzando()
+/*
+<elipsis-for-student@
+*/
+  Diagonal4Azul()
   repeat(4){
     Mover(Sur)
     Mover(Oeste)
   }
+/*
+@elipsis-for-student>
+*/ 
+
 }
 
-procedure Diagonal4AzulAvanzando(){
-  repeat(4){
+procedure Diagonal4Azul(){
+/*
+<elipsis-for-student@
+*/
+repeat(4){
     Poner(Azul)
     Mover(Este)
     Mover(Norte)
   }
+/*
+@elipsis-for-student>
+*/ 
+  
 }
