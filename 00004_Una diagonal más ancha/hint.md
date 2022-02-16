@@ -1,1 +1,1 @@
-De nuevo, pensá: ¿qué procedimiento que definiste antes puede ayudarte a resolver parte de esta tarea?
+Tené en cuenta qué un procedimiento que definiste antes puede ayudarte a resolver parte de esta tarea. No hace falta definirlo nuevamente, solo invocarlo ya que está en la `</> Biblioteca`. :wink:
