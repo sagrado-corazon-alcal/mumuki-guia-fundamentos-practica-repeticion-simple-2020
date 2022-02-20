@@ -10,7 +10,7 @@ procedure Diagonal4Azul(){
 }
 ```
 
-> ¿Te animás a definir el procedimiento `Diagonal4AzulVolviendo`? Este procedimiento debería _hacer lo mismo_ que `Diagonal4Azul`, pero tiene que dejar el cabezal **en la posición inicial**. Recordá que podés invocar todo lo que está en la Biblioteca sin necesidad de volver a definirlo. :wink: 
+> ¿Te animás a definir el procedimiento `Diagonal4AzulVolviendo`? Este procedimiento debería _hacer lo mismo_ que `Diagonal4Azul`, pero tiene que dejar el cabezal **en la posición inicial** de la diagonal. Recordá que podés invocar todo lo que está en la Biblioteca sin necesidad de volver a definirlo. :wink: 
 
 <gs-board>
   GBB/1.0
