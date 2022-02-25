@@ -2,7 +2,7 @@
 rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    submission_passed_with_these_warnings:
+    these_expectations_failed:
     - Intransitive:GuardaDe5 HasRepeat
   then: "`GuardaDe5` debe contener el comportamiento necesario para crear la guarda
     pero cada azulejo puede resolverse con un procedimiento"
